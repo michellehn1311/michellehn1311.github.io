@@ -1,0 +1,1472 @@
+*{margin: 0;
+    padding: 0;}
+
+
+.khoi-sieu-tron3 {
+    width: 10px;
+    height: 10px;
+    top: 3px;
+    transform: translateY(-500px);
+    position: fixed;
+    left: 115px;
+    transition: 0.8s;
+    z-index: 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+    background-color: orangered;
+    border-radius: 50%;
+}
+.hoover3.khoi-sieu-tron3{
+    transform: translateY(15px);
+    transition-delay: 2.2s;
+}
+
+.len-xuong:hover .khoi-sieu-tron3 {
+    transform: translateY(15px);
+    transition-delay: 2.2s;
+}
+
+.khoi-sieu-tron2 {
+    width: 10px;
+    height: 10px;
+    top: 3px;
+    transform: translateY(-500px);
+    z-index: 99999999999999999999999999999999999999999999;
+    position: fixed;
+    left: 115px;
+    background-color: orangered;
+    transition: 0.8s;
+    border-radius: 50%;
+}
+.hoover2.khoi-sieu-tron2{
+    transform: translateY(43px);
+    transition-delay: 2s;
+}
+.len-xuong:hover .khoi-sieu-tron2 {
+    transform: translateY(43px);
+    transition-delay: 2s;
+}
+
+.khoi-sieu-tron1 {
+    width: 10px;
+    height: 10px;
+    top: 3px;
+    transform: translateY(-500px);
+    position: fixed;
+    z-index: 9999999999999999999999999999999999999999999999999999999999999999;
+    left: 115px;
+    background-color: orangered;
+    transition: 0.8s;
+    border-radius: 50%;
+}
+.hoover1.khoi-sieu-tron1{
+    transform: translateY(73px);
+    transition-delay: 1.8s;
+}
+.len-xuong:hover .khoi-sieu-tron1 {
+    transform: translateY(73px);
+    transition-delay: 1.8s;
+}
+
+.cham {
+    width: 15px;
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.khoi-3-cham {
+    position: fixed;
+    transform: translateY(43px);
+    transition: 1.2s;
+    border-radius: 17px;
+    top: 3px;
+    left: 117px;
+    z-index: 99999999999999999999999999999999999;
+    font-size: 21px;
+    background-color: brown;
+}
+
+.khoi-j {
+    position: fixed;
+    transform: translateY(-543px);
+    transition: 1.2s;
+    width: 6px;
+    border-radius: 17px;
+    top: 3px;
+    left: 117px;
+    height: 462px;
+    z-index: 99999999999999999999999999999999999;
+    font-size: 21px;
+    background-color: orangered;
+}
+
+.len-xuong:hover .khoi-j {
+    transform: translateY(100px);
+    transition-delay: 1s;
+}
+.khoi-jj.khoi-j{
+    transform: translateY(100px);
+    transition-delay: 1s;
+}
+
+p.ou {
+    position: fixed;
+    transform: rotate(-90deg)translateY(107px)translateX(70px);
+    transition: 1.2s;
+    top: 3px;
+    left: 90px;
+    height: 305px;
+    z-index: 99999999999999999999999999999999999;
+    font-size: 16px;
+}
+
+.len-xuong:hover p.ou {
+    transform: rotate(-90deg)translateY(107px)translateX(-485px);
+}
+.leen.ou{
+    transform: rotate(-90deg)translateY(107px)translateX(-485px);
+}
+a.carousel-control-next {
+    z-index: 999999999;
+    margin-right: 131px;
+}
+
+a.carousel-control-prev {
+    z-index: 999999999;
+    margin-left: 131px;
+}
+
+.len-xuong:hover .khoi-vuong {
+    transform: rotate(180deg)translateY(-150px);
+    transition-delay: 0.6s;
+}
+.khoi-vuong-dch.khoi-vuong{
+    transform: rotate(180deg)translateY(-150px);
+    transition-delay: 0.6s;
+}
+.khoi-vuong {
+    position: fixed;
+    transform: rotate(180deg)translateY(451px);
+    transition: 1.2s;
+    top: 20px;
+    width: 6px;
+    border-radius: 17px;
+    left: 77px;
+    height: 371px;
+    z-index: 99999999999999999999999999999999999;
+    font-size: 21px;
+    background-color: orangered;
+}
+
+p.miche {
+    position: fixed;
+    transform: rotate(-90deg)translateY(107px)translateX(70px);
+    transition: 1.2s;
+    top: 20px;
+    left: 25px;
+    height: 305px;
+    z-index: 99999999999999999999999999999999999;
+    font-size: 21px;
+}
+.dichuyenmiche.miche{
+    transform: rotate(-90deg)translateY(107px)translateX(-468px);
+}
+.len-xuong:hover p.miche {
+    transform: rotate(-90deg)translateY(107px)translateX(-468px);
+}
+.white.khoi-tron-tron{
+    background-color: white;
+}
+.white.khoi-sieu-tron1{
+    background-color: white;
+}
+.white.khoi-sieu-tron2{
+    background-color: white;
+}
+.white.khoi-sieu-tron3{
+    background-color: white;
+}
+.white.khoi-j{
+    background-color: white;
+}
+
+.white.khoi-vuong{
+    background-color: white;
+}
+.white.khoi-tron-tron1{
+    background-color: white;
+}
+.white.khoi-tron-tron2{
+    background-color: white;
+}
+.khoi-tron-tron {
+    width: 25px;
+    height: 25px;
+    background-color: orangered;
+    border-radius: 50%;
+    left: 27px;
+    transition: 0.8s;
+    position: fixed;
+    z-index: 999999999999999999;
+    transform: rotate(-90deg)translateX(100px);
+}
+.dolay1.khoi-tron-tron1.npa{
+    transition-delay: 0.8s;
+    
+}
+
+.khoi-tron-tron1 {
+    width: 25px;
+    height: 25px;
+    background-color: orangered;
+    border-radius: 50%;
+    left: 27px;
+    transition: 1s;
+    position: fixed;
+    z-index: 999999999999999999;
+    transform: rotate(-90deg)translateX(100px);
+}
+.dolay3.khoi-tron-tron2.npa{
+    transition-delay: 1.3s;
+}
+.khoi-tron-tron2 {
+    width: 25px;
+    height: 25px;
+    background-color: orangered;
+    border-radius: 50%;
+    left: 27px;
+    transition: 1.3s;
+    position: fixed;
+    z-index: 999999999999999999;
+    transform: rotate(-90deg)translateX(100px);
+}
+
+.len-xuong:hover .khoi-tron-tron {
+    transform: rotate(-90deg)translateX(-430px);
+    transition-delay: 0.22s;
+}
+.len-xuong:hover .khoi-tron-tron1 {
+    transform: rotate(-90deg)translateX(-386px);
+    transition-delay: 0.4s;
+}
+.len-xuong:hover .khoi-tron-tron2 {
+    transform: rotate(-90deg)translateX(-342px);
+    transition-delay: 0.6s;
+}
+
+.rich.khoi-tron-tron{
+    transform: rotate(-90deg)translateX(-430px);
+    
+}
+.rich1.khoi-tron-tron1{
+    transform: rotate(-90deg)translateX(-386px);
+    transition-delay: 0.4s;
+}
+
+.rich2.khoi-tron-tron2{
+    transform: rotate(-90deg)translateX(-342px);
+    transition-delay: 0.6s;
+}
+
+
+.len-xuong:hover p.npa {
+    transform: rotate(-90deg)translateX(-468px);
+}
+
+.len-xuong1.npa {
+    transform: rotate(-90deg)translateX(-468px);
+}
+
+
+
+p.npa {
+    position: fixed;
+    transform: rotate(-90deg)translateX(0px);
+    transition: 1.2s;
+    top: -10px;
+    left: 49px;
+    height: 305px;
+    z-index: 99999999999999999999999999999999999;
+    font-size: 17px;
+}
+
+.lalala.bla {
+    position: fixed;
+}
+
+.lalala {
+    width: 100%;
+    height: 100%;
+    z-index: 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+}
+
+.bao-quat {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+p.linhtinh {padding-top: 44px;}
+
+i.fas.fa-laugh-beam.na {
+    font-size: 14px;
+    padding-top: 4px;
+}
+
+.cumk {
+    padding-top: 15px;
+}
+
+a.llll {
+    color: white;
+    text-decoration: none;
+}
+
+.chu-nio {
+    font-size: 15px;
+    transition: 0.4s;
+    color: white;
+}
+
+.happi:hover .chu-nio {padding-top: 39px;}
+
+i.far.fa-laugh-beam.icon-2 {
+    color:black;
+}
+
+
+span {padding-top: 15px;}
+
+.khoi-avt {
+    margin-top: 98px;
+}
+
+.avatarrrr:hover .alyer1.anhl {
+    transform: rotate(-110deg);
+}
+
+img.kkkkkk {
+    width: 35px;
+    height: 35px;
+    margin: auto;
+}
+
+.layer1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    transition: 0.4s;
+}
+
+.circlee:hover .layer1 {transform: scale(0);opacity: 0;}
+
+.noidung {
+    width: 300px;
+    height: 300px;
+    background-image: url(15.jpg);
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    top: 31px;
+    left: 31px;
+}
+
+.circlee.anh22 {
+    width: 359px;
+    height: 359px;
+    position: relative;
+    border-radius: 50%;
+}
+
+.col-6.hai2 {
+    cursor: pointer;
+    padding-top: 63px;
+}
+
+.hoi {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    right: -12px;
+    bottom: -11px;
+    border: 4px dotted white;
+    transform: scale(0) rotateX(45deg);
+    transition: 0.4s;
+}
+
+.nut-back-to-top:hover .hoi {
+    transform: scale(1) rotate(180deg);
+}
+
+.ka {
+    position: relative;
+}
+
+i.fas.fa-arrow-circle-up {
+    font-size: 40px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.nut-back-to-top {
+    position: fixed;
+    bottom: 27px;
+    right: 15px;
+    color: #ffffff47;
+    cursor: pointer;
+    z-index: 999999999999999999999999999999999999999;
+}
+
+
+
+.nut-back-to-top:hover {
+    color: white;
+}
+
+ol.carousel-indicators.kkk {
+    margin-left: 347px;
+}
+
+a.link {width: 165px;}
+
+i.fab.fa-instagram.insta {
+    text-align: center;
+    font-size: 45px;
+    width: 600px;
+    line-height: 56px;
+    }
+
+.carousel-item.adu.active {
+    width: 100%;
+    height: 100%;
+}
+
+.cum-hinh-thc1 {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 79px;
+    z-index: 9999999999999999999999999999999999999999999999999999999999999;
+}
+
+.lalala1 {
+    width: 100%;
+    height: 100%;
+    z-index: 99999999999999999999;
+    position: fixed;
+    margin-left: 0;
+}
+
+
+
+.hahaha {
+    position: absolute;
+    margin-left: 514px;
+}
+
+button.motalayeranhsau {
+    width: 149px;
+    padding: 15px;
+    border: none;
+    font-weight: 600;
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+    margin-top: 14px;
+    font-size: 16px;
+}
+
+.motaanh {
+    font-style: italic;
+    margin-top: 11px;
+    font-size: 14px;
+    width: 250px;
+    margin: auto;
+    margin-top: 8px;
+}
+
+.tentp {
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-size: 21px;
+    margin-top: 149px;
+    margin-bottom: 6px;
+}
+
+hr.ks{
+    color: white;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 9px;
+    margin: auto;
+}
+
+.layer-2 {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 0 20px #ffffff61;
+}
+
+
+.layer-3 {
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    box-shadow: inset 0 0 0 0 #ff45009e;
+    z-index: 99999999;
+    transition: 0.4s;
+}
+
+.d-block.w-100.po-re:hover .layer-3 {
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 0 0 0 500px #ff45009e;
+}
+
+
+
+.layer-1 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    text-align: center;
+    color: white;
+    transform: scale(0);
+    transition: 0.4s;
+    z-index: 99999999999999999;
+    margin-top: 181px;
+}
+
+.d-block.w-100.po-re:hover .layer-1 {
+    transform: scale(1);
+}
+
+.layer-1:hover .d-block.w-100.po-re {
+    transform: scale(1.5);
+}
+
+.d-block.w-100.po-re {
+    position: relative;
+    width: 600px!important;
+    height: 900px!important;
+    margin: auto;
+}
+
+img.d-block.w-100.anh-anh {
+    width: 600px!important;
+    margin: auto;
+    height: 900px!important;
+}
+
+li.trang {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+li.trang.active {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+    
+   
+    img{
+        width: 400px;
+    }
+    .color{
+        width: 100%;
+        height: 1300px;
+        background-color: #9492d3;
+        z-index: 0;
+}
+    
+    .mau-nen1{
+        width: 100%;
+        height: 100%;
+        margin-left: 0;
+        padding-left: 0;
+        position: absolute;
+        background-color: #244c4dd1;
+        z-index: 999999;
+    }
+    .khoi-an-thanh-cong1{
+        position: absolute;
+        width: 600px;
+        margin: auto;
+        height: 529px;
+        z-index: 999999999999999999999;
+        margin-left: 520px;
+        margin-top: 100px;
+    }
+    .mau-thanh-cong{
+        width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color: white;
+    border-radius: 37px;
+}
+    .cum-hinh-thic1{
+        position: absolute;
+    z-index: 555555555;
+    margin-left: 500px;
+    margin-top: 154px;
+}
+    img.thc1{
+        margin-left: 135px;
+        margin-top: 13px;
+    }
+    .chuthc1{
+        width: 650px;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 400;
+    }
+    button.clo1 {
+        width: 250px;
+        margin: auto;
+        margin-left: 200px;
+        background-color: orangered;
+        padding: 25px;
+        color: white;
+        border-radius: 19px;
+        margin-top: 3px;
+        outline: none;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+        font-size: 25px;
+        border: none;
+    }
+.happi {
+    width: 351px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    transform: translateX(0);
+}
+.lala{
+    transform: translateX(0);
+}
+.flex-1{
+    transform: translateX(500px);
+    transition: 0.4s;
+}
+.flex-2{
+    transform: translateX(500px);
+    transition: 0.4s;
+}
+.make-me-laugh:hover .flex-1{
+    transform: translateX(0);
+
+
+}
+.hihi {
+    width: 24px;
+    height: 24px;
+    background-color: white;
+    transform: rotateZ(45deg);
+    margin-left: 269px;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.icon-1 , .icon-2{
+    cursor: pointer;
+} 
+
+.sadd {
+    font-size: 16px;
+    width: 281px;
+    padding: 5px;
+    z-index: 99999999999999999999999999;
+    background-color: white;
+    position: absolute;
+    margin-bottom: unset;
+}
+
+.sad {
+    width: 351px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+i.far.fa-frown.icon-1 {
+    color: black;
+}
+
+.make-me-laugh {
+    position: fixed;
+    right: 15px;
+    bottom: 87px;
+    font-size: 40px;
+    z-index: 99999999999999999999999999999999999999999999;
+}
+
+button.clo {
+    width: 250px;
+    margin: auto;
+    margin-left: 173px;
+    background-color: orangered;
+    padding: 25px;
+    color: white;
+    border-radius: 19px;
+    margin-top: 19px;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    border: none;
+}
+button.close:hover {
+    display: inline-block!important;
+    color: white;
+    background-color: orangered;
+    opacity: 100%;
+}
+.mau-nen {
+    width: 100%;
+    height: 100%;
+    background-color: #244c4dd1;
+    position: absolute;
+    z-index: 444;
+}
+
+img.thc {
+    margin-left: 79px;
+    margin-top: -40px;
+    background: repeat;
+}
+
+.chuthc {
+    width: 600px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.cum-hinh-thc {
+    position: absolute;
+    z-index: 999999999999999999999999999999999999;
+    margin-left: 500px;
+    margin-top: 159px;
+}
+
+.mau-thanh-cong {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background-color: white;
+    border-radius: 37px;
+}
+
+.khoi-an-thanh-cong {
+    position: absolute;
+    width: 600px;
+    margin: auto;
+    height: 562px;
+    z-index: 55555555;
+    margin-left: 500px;
+    margin-top: 99px;
+}
+
+img.loogo {
+    width: 48px;
+    margin: auto;
+    margin-left: 433px;
+    height: 62px;
+}
+
+
+
+.khoi-menus {width: 519px;margin: auto;margin-left: 122px;display: flex;justify-content: space-between;}
+
+.nav {
+    width: 1200px;
+    padding-top: 77px;
+    position: fixed;
+    display: flex;
+    cursor: pointer;
+    z-index: 999999999;
+    margin: auto;
+    justify-content: space-between;
+}
+
+hjhj {
+    position: absolute;
+    z-index: 999999999;
+}
+
+
+
+.trongkhoinav2 {
+    padding: 192px;
+}
+
+nav {
+    position: fixed;
+    z-index: 6666666666666666666;
+    bottom: 15px;
+}
+
+a.linkk {
+    float: right;
+    color: white;
+    font-size: 24px;
+    margin-left: 15px;
+}
+
+i.fas.fa-laugh-beam {
+    font-size: 19px;
+}
+
+.have {
+    font-size: 24px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: white;
+}
+
+.bentrongft {
+    padding: 25px;
+}
+
+.footer {
+    height: 86px;
+    background-color: mediumorchid;
+    width: 100%;
+}
+
+button.submit {
+    color: white;
+    border: none;
+    background-color: orangered;
+    font-size: 22px;
+    font-weight: 700;
+    width: 247px;
+    height: 57px;
+    border-radius: 8px;
+    margin-left: 226px;
+    outline: none;
+    margin-top: 30px;
+}
+
+textarea {
+    width: 707px;
+    margin-right: -95px;
+    border: none;
+    padding-left: 15px;
+    border-radius: 6px;
+    padding-top: 11px;
+    margin-top: 9px;
+}
+
+.teninfo {
+    font-size: 22px;
+    margin-top: 13px;
+}
+
+input.phone1 {
+    width: 576px;
+    border: none;
+    padding-left: 15px;
+    border-radius: 5px;
+    height: 38px;
+    margin-top: 4px;
+    margin-right: -94px;
+}
+
+.tenpn {
+    font-size: 22px;
+    margin-top: 7px;
+}
+
+input.email1 {
+    margin-left: 13px;
+    width: 704px;
+    border: none;
+    padding-left: 15px;
+    border-radius: 5px;
+    height: 38px;
+    margin-top: 2px;
+}
+
+.tenname2 {
+    font-size: 22px;
+    margin-top: 7px;
+}
+
+.cumlayer5 {
+    margin-top: 40px;
+}
+
+.tenname {margin-top: -4px;font-size: 22px;}
+
+input.name1 {
+    margin-left: 15px;
+    width: 704px;
+    border: none;
+    padding-left: 15px;
+    border-radius: 5px;
+    height: 38px;
+    margin-top: -7px;
+}
+
+.layer5-1 {
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+
+.give {
+    font-size: 43px;
+    width: 900px;
+    font-weight: 600;
+}
+
+.cumsearch {
+    margin-left: -96px;
+}
+
+.khoicontact {
+    margin-top: 50px;
+    margin-left: 166px;
+}
+
+.hink {
+    width: 100px;
+    height: 644px;
+    margin-bottom: -708px;
+    background-color: white;
+}
+
+.khoi5 {
+    width: 100%;
+    height: 753px;
+    background-color: #ffaaff;
+    position: relative;
+}
+
+.trongkhoi5 {padding: 50px;position: absolute;width: 900px;margin-left: 143px;}
+
+.lien {
+    font-size: 69px;
+    font-weight: 800;
+    margin-left: -436px;
+    color: black;
+    text-align: center;
+    margin-top: -8px;
+}
+
+.khoianh44 {
+    width: 1117px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 91px;
+}
+
+button.motalayeranhsau {
+    border: none;
+    width: 250px;
+    padding: 25px;
+    border-radius: 7px;
+    font-size: 18px;
+    background-color: #ff4500a8;
+    color: white;
+}
+
+button.motalayeranhsau:hover {
+    background-color: orangered;
+    color: black;
+}
+
+.motalayeranhsau {
+    font-weight: 700;
+}
+
+.motaanh {
+    font-style: italic;
+    margin-top: 11px;
+    font-size: 25px;
+    width: 500px;
+    margin: auto;
+    margin-top: 8px;
+}
+
+hr {
+    color: white;
+    width: 205px;
+    border: 2px solid;
+    border-radius: 9px;
+    margin: auto;
+}
+
+.tentp {
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-size: 35px;
+    margin-top: 149px;
+    margin-bottom: 6px;
+}
+
+.layer3 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    text-align: center;
+    color: white;
+    transform: scale(0);
+    transition: 0.4s;
+}
+
+.khoilayer:hover .layer3 {
+    transform: scale(1);
+}
+
+.layer2 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    box-shadow: inset 0 0 0 0 #ae5252cf;
+    transition: 0.3s;
+}
+
+.khoilayer:hover .layer2 {
+    box-shadow: inset 0 0 0 148px #642d2dcf;
+}
+
+.khoilayer {
+    width: 279px;
+    height: 418px;
+    position: relative;
+}
+
+.chumanh4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+
+
+.trongkhoi3 {
+    padding: 0;
+}
+
+.khoichu2 {
+    margin: auto;
+    padding-top: 48px;
+    width: 400px;
+    padding-bottom: 48px;
+    margin-left: 42px;
+}
+
+.j3 {
+    background-color: white;
+    width: 503px;
+    height: 52px;
+    margin-bottom: -78px;
+}
+
+.khoi3 {
+    width: 100%;
+    height: 1300px;
+    background-color: #9492d3;
+}
+
+.cumarrow {
+    width: 30px;
+    margin: auto;
+}
+
+img.arrow {
+    width: 30px;
+}
+
+.cumhocvan2 {
+    margin-left: 22px;
+}
+
+img.anh222 {
+    width: 389px;
+    margin-top: 5px;
+}
+
+.where {
+    color: #ffffb3;
+    font-weight: 600;
+}
+
+.khoi2 i {
+    color: white;
+    font-weight: 200;
+}
+
+.year {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cumhocvan {
+    width: 607px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hocvan {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    margin-top: 21px;
+}
+
+.gioithieu {
+    color: white;
+}
+
+.j {
+    background-color: white;
+    width: 373px;
+    height: 52px;
+    margin-bottom: -78px;
+}
+
+.abou {
+    font-size: 71px;
+    font-weight: 800;
+    margin-left: 51px;
+    color: black;
+}
+
+.cc {
+    width: 450px;
+    border: 5px solid white;
+    height: 450px;
+    margin-left: -46px;
+    margin-top: -409px;
+    border-radius: 80%;
+    border-style: dotted;
+    border: 7px dotted white;
+    transform: rotate(45deg);
+    transition: 0.4s;
+}
+
+.col-6.hai2:hover .cc {
+    transform: rotate(360deg);
+}
+
+.khoi2 {
+    background-color: #ff4e4ec7;
+    height: 750px;
+    width: 100%;
+}
+
+.bentrongkhoi2 {
+    padding: 100px;
+    color: white;
+}
+
+img.anh2 {
+    width: 359px;
+    border-radius: 191px;
+    margin-left: 45px;
+    margin-top: 19px;
+}
+
+img.waves {
+    width: 300px;
+    margin-bottom: -182px;
+    margin-left: 57px;
+}
+
+i.fas.fa-laugh-wink {
+    margin-left: 5px;
+}
+
+.menu:hover {
+    border-bottom: 5px solid orangered;
+    border-bottom-style: dotted;
+    transition: 0.2s;
+    margin-top: -6px;
+    color: orangered;
+    font-weight: 800;
+}
+
+.padd .menu:hover {
+    border-bottom: 5px solid white;
+    border-bottom-style: dotted;
+    transition: 0.2s;
+    margin-top: -6px;
+    color: white;
+    font-weight: 800;
+}
+
+.active.menu {
+    border-bottom: 5px solid orangered;
+    border-bottom-style: dotted;
+    transition: 0.2s;
+    margin-top: -6px;
+    color: orangered;
+    font-weight: 800;
+}
+
+.padd .active {
+    color: white;
+    border-bottom: 5px solid white;
+    border-bottom-style: dotted;
+    transition: 0.2s;
+    margin-top: -6px;
+    font-weight: 800;
+}
+
+.hcn {
+    background-color: orangered;
+    width: 100px;
+    height: 100px;
+    transform: rotate(45deg);
+    margin-left: 485px;
+    margin-top: -151px;
+}
+
+button.hear {
+    width: 183px;
+    border: none;
+    height: 45px;
+    background-color: orangered;
+    margin-top: 17px;
+    border-radius: 9px;
+    font-weight: 800;
+    color: white;
+    outline: none;
+}
+
+.b {height: 150px;background-color: orangered;width: 150px;border-radius: 50%;display: inline-block;margin-bottom: -134px;}
+
+i.far.fa-laugh-wink {
+    font-size: 88px;
+    margin-left: -12px;
+}
+
+div.tl i {
+    color: #ff8888;
+}
+
+.cumchuh {
+    padding-bottom: 28px;
+    padding-right: 28px;
+    padding-left: 28px;
+    padding-top: 28px;
+    margin-top: 89px;
+    border: 9px solid #ff8888;
+    border-style: dotted;
+}
+
+i.fas.fa-glass-cheers {
+    font-size: 30px;
+}
+
+.tl {
+    color: #80808094;
+}
+
+.wel {
+    font-size: 43px;
+    color: orangered;
+    margin-top: -29px;
+}
+button{
+    outline: none;
+}
+
+.hello {
+    font-size: 100px;
+    width: 532px;
+    font-weight: bolder;
+    color: brown;
+}
+
+img.avatar {
+    width: 359px;
+    margin-top: 103px;
+    border: 13px solid #ff4e4ec7;
+}
+
+.menus {
+    margin-top: 75px;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    font-weight: 500;
+    cursor: pointer;
+}
+    
+    header {
+        width: 100%;
+        background-color: #fcf9c0;
+        height: 1000px;
+    }
+    img.logo{
+        width: 80px;
+        margin-top: 45px;
+        margin-left: 47px;
+        cursor: pointer;
+    }
+    body{
+        font-family: 'Montserrat', sans-serif;
+
+    }
+    img.anh4{
+    width: 279px;
+    height: 418px;
+    box-shadow: 0 0 0 20px #ffffff6b;
+    border-radius: 4px;
+    }
+    .hide{
+        display: none;
+    }
+    .padd{
+        padding-top: 25px;
+        width: 100%;
+        height: 113px;
+        color: white;
+        background-color: cadetblue;
+        padding-bottom: 25px;
+    }
+
+.anh22{
+    background-image: url(avatr22.jpg);
+}
+.padd .khoi-menus {
+    padding-top: -33px;
+}
+.khoichu21{
+    margin: auto;
+    width: 400px;
+}
+.layer4{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 50%;
+    top: 0;
+    z-index: 2;
+    left: 0;
+    font-weight: bold;
+    text-align: center;
+    transition-delay: 0.6s;
+    background-color: black;
+    letter-spacing: 2px;
+    padding-top: 117px;
+    transform: scale(1.5);
+    opacity: 0;
+    transition: 0.4s;
+}
+
+.circlee:hover .layer4 {
+    transform: scale(1);
+    opacity: 1;
+}
+.avatarrrr{
+    width: 359px;
+    height: 359px;
+    position: relative;
+}
+.anhl{
+    background-image: url(avatar.jpg);
+}
+.alyer1{
+    width: 100%;
+    height: 100%;
+    transform-origin: 95% 40%;
+    box-shadow: 0 0 0 15px orangered;
+    position: absolute;
+    transition: 0.4s;
+    z-index: 3;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+.alyer2{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: orangered url(https://tympanus.net/Tutorials/CircleHoverEffects/images/noise.png);
+    z-index: 1;
+    box-shadow: inset 0 0 0 4px #ff450096;
+}
+.alyer3{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: white;
+    margin-top: 27px;
+    z-index: 2;
+    overflow: hidden;
+    text-align: center;
+}
+h2.chubig{
+    color: white;
+    font-family: segoe UI;
+    line-height: 41px;
+    margin-bottom: 20px;
+    font-weight: 800;
+    padding-top: 21px;
+    letter-spacing: 3px;
+}
+hr{
+    width: 150px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 15px;
+}
+.ten-tg{
+    font-style: italic;
+    font-size: 11px;
+    margin-top: -14px;
+    color: white;
+}
+.vod{
+    font-weight: 700;
+    font-size: 9px;
+    cursor: pointer;
+    width: 80px;
+    overflow: hidden;
+    letter-spacing: 1px;
+    height: 80px;
+    background: rgba(255,255,255,0.3);
+    margin-top: 25px;
+    margin: 7px auto 0;
+    border-radius: 50%;
+    display: block;
+    font-style: normal;
+    transform: translateX(500px)rotate(90deg);
+    transition: 0.4s;
+}
+
+.avatarrrr:hover .alyer3 .vod {
+    transform: translateX(0)rotate(0deg);
+}
+.na{
+    font-size: 14px;
+}
+.dolay{
+    transition-delay: 0.8s;
+}
+.dolay0{
+    transition-delay: 0.2s;
+}
